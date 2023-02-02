@@ -3,6 +3,6 @@
         "plugins/markdown"
     ],
     "opts": {
-        "readme": "README.md"
+        "readme": "Home.md"
     }
 }
